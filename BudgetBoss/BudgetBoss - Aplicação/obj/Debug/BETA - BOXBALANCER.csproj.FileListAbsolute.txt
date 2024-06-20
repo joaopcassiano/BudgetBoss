@@ -1,0 +1,73 @@
+C:\Users\progepe-p063357\Desktop\Curso .NET\BETA - BOXBALANCER\BETA - BOXBALANCER\bin\Debug\BETA - BOXBALANCER.exe.config
+C:\Users\progepe-p063357\Desktop\Curso .NET\BETA - BOXBALANCER\BETA - BOXBALANCER\bin\Debug\BETA - BOXBALANCER.exe
+C:\Users\progepe-p063357\Desktop\Curso .NET\BETA - BOXBALANCER\BETA - BOXBALANCER\bin\Debug\BETA - BOXBALANCER.pdb
+C:\Users\progepe-p063357\Desktop\Curso .NET\BETA - BOXBALANCER\BETA - BOXBALANCER\obj\Debug\BETA - BOXBALANCER.csproj.AssemblyReference.cache
+C:\Users\progepe-p063357\Desktop\Curso .NET\BETA - BOXBALANCER\BETA - BOXBALANCER\obj\Debug\BETA___BOXBALANCER.Properties.Resources.resources
+C:\Users\progepe-p063357\Desktop\Curso .NET\BETA - BOXBALANCER\BETA - BOXBALANCER\obj\Debug\BETA - BOXBALANCER.csproj.GenerateResource.cache
+C:\Users\progepe-p063357\Desktop\Curso .NET\BETA - BOXBALANCER\BETA - BOXBALANCER\obj\Debug\BETA - BOXBALANCER.csproj.CoreCompileInputs.cache
+C:\Users\progepe-p063357\Desktop\Curso .NET\BETA - BOXBALANCER\BETA - BOXBALANCER\obj\Debug\BETA - BOXBALANCER.exe
+C:\Users\progepe-p063357\Desktop\Curso .NET\BETA - BOXBALANCER\BETA - BOXBALANCER\obj\Debug\BETA - BOXBALANCER.pdb
+C:\Users\progepe-p063357\Desktop\Curso .NET\BETA - BOXBALANCER\BETA - BOXBALANCER\obj\Debug\BETA___BOXBALANCER.FrmPrincipal.resources
+C:\Users\progepe-p063357\Desktop\Curso .NET\BETA - BOXBALANCER\BETA - BOXBALANCER\obj\Debug\BETA___BOXBALANCER.FrmIncluir.resources
+C:\Users\joaop\Desktop\BETA - BOXBALANCER\BETA - BOXBALANCER\bin\Debug\BETA - BOXBALANCER.exe.config
+C:\Users\joaop\Desktop\BETA - BOXBALANCER\BETA - BOXBALANCER\bin\Debug\BETA - BOXBALANCER.exe
+C:\Users\joaop\Desktop\BETA - BOXBALANCER\BETA - BOXBALANCER\bin\Debug\BETA - BOXBALANCER.pdb
+C:\Users\joaop\Desktop\BETA - BOXBALANCER\BETA - BOXBALANCER\obj\Debug\BETA - BOXBALANCER.csproj.AssemblyReference.cache
+C:\Users\joaop\Desktop\BETA - BOXBALANCER\BETA - BOXBALANCER\obj\Debug\BETA___BOXBALANCER.FrmIncluir.resources
+C:\Users\joaop\Desktop\BETA - BOXBALANCER\BETA - BOXBALANCER\obj\Debug\BETA___BOXBALANCER.FrmPrincipal.resources
+C:\Users\joaop\Desktop\BETA - BOXBALANCER\BETA - BOXBALANCER\obj\Debug\BETA___BOXBALANCER.Properties.Resources.resources
+C:\Users\joaop\Desktop\BETA - BOXBALANCER\BETA - BOXBALANCER\obj\Debug\BETA - BOXBALANCER.csproj.GenerateResource.cache
+C:\Users\joaop\Desktop\BETA - BOXBALANCER\BETA - BOXBALANCER\obj\Debug\BETA - BOXBALANCER.csproj.CoreCompileInputs.cache
+C:\Users\joaop\Desktop\BETA - BOXBALANCER\BETA - BOXBALANCER\obj\Debug\BETA - BOXBALANCER.exe
+C:\Users\joaop\Desktop\BETA - BOXBALANCER\BETA - BOXBALANCER\obj\Debug\BETA - BOXBALANCER.pdb
+C:\Users\joaop\Desktop\BETA BOX BALANCER\BETA - BOXBALANCER\bin\Debug\BETA - BOXBALANCER.exe.config
+C:\Users\joaop\Desktop\BETA BOX BALANCER\BETA - BOXBALANCER\bin\Debug\BETA - BOXBALANCER.exe
+C:\Users\joaop\Desktop\BETA BOX BALANCER\BETA - BOXBALANCER\bin\Debug\BETA - BOXBALANCER.pdb
+C:\Users\joaop\Desktop\BETA BOX BALANCER\BETA - BOXBALANCER\obj\Debug\BETA - BOXBALANCER.csproj.AssemblyReference.cache
+C:\Users\joaop\Desktop\BETA BOX BALANCER\BETA - BOXBALANCER\obj\Debug\BETA___BOXBALANCER.FrmIncluir.resources
+C:\Users\joaop\Desktop\BETA BOX BALANCER\BETA - BOXBALANCER\obj\Debug\BETA___BOXBALANCER.FrmPrincipal.resources
+C:\Users\joaop\Desktop\BETA BOX BALANCER\BETA - BOXBALANCER\obj\Debug\BETA___BOXBALANCER.Properties.Resources.resources
+C:\Users\joaop\Desktop\BETA BOX BALANCER\BETA - BOXBALANCER\obj\Debug\BETA - BOXBALANCER.csproj.GenerateResource.cache
+C:\Users\joaop\Desktop\BETA BOX BALANCER\BETA - BOXBALANCER\obj\Debug\BETA - BOXBALANCER.csproj.CoreCompileInputs.cache
+C:\Users\joaop\Desktop\BETA BOX BALANCER\BETA - BOXBALANCER\obj\Debug\BETA - BOXBALANCER.exe
+C:\Users\joaop\Desktop\BETA BOX BALANCER\BETA - BOXBALANCER\obj\Debug\BETA - BOXBALANCER.pdb
+C:\Users\joaop\Desktop\BETA BOX BALANCER\BETA - BOXBALANCER\obj\Debug\BETA___BOXBALANCER.FrmExcluir.resources
+C:\Users\JOÃO P\Downloads\beta-box-balancer-main\beta-box-balancer-main\bin\Debug\BETA - BOXBALANCER.exe.config
+C:\Users\JOÃO P\Downloads\beta-box-balancer-main\beta-box-balancer-main\bin\Debug\BETA - BOXBALANCER.exe
+C:\Users\JOÃO P\Downloads\beta-box-balancer-main\beta-box-balancer-main\bin\Debug\BETA - BOXBALANCER.pdb
+C:\Users\JOÃO P\Downloads\beta-box-balancer-main\beta-box-balancer-main\obj\Debug\BETA - BOXBALANCER.csproj.AssemblyReference.cache
+C:\Users\JOÃO P\Downloads\beta-box-balancer-main\beta-box-balancer-main\obj\Debug\BETA___BOXBALANCER.FrmIncluir.resources
+C:\Users\JOÃO P\Downloads\beta-box-balancer-main\beta-box-balancer-main\obj\Debug\BETA___BOXBALANCER.FrmPrincipal.resources
+C:\Users\JOÃO P\Downloads\beta-box-balancer-main\beta-box-balancer-main\obj\Debug\BETA___BOXBALANCER.Properties.Resources.resources
+C:\Users\JOÃO P\Downloads\beta-box-balancer-main\beta-box-balancer-main\obj\Debug\BETA - BOXBALANCER.csproj.GenerateResource.cache
+C:\Users\JOÃO P\Downloads\beta-box-balancer-main\beta-box-balancer-main\obj\Debug\BETA - BOXBALANCER.csproj.CoreCompileInputs.cache
+C:\Users\JOÃO P\Downloads\beta-box-balancer-main\beta-box-balancer-main\obj\Debug\BETA - BOXBALANCER.exe
+C:\Users\JOÃO P\Downloads\beta-box-balancer-main\beta-box-balancer-main\obj\Debug\BETA - BOXBALANCER.pdb
+C:\Users\JOÃO P\Downloads\beta-box-balancer-main\beta-box-balancer-main\obj\Debug\BETA___BOXBALANCER.FrmLogin.resources
+C:\Users\JOÃO P\Downloads\beta-box-balancer-main\beta-box-balancer-main\obj\Debug\BETA___BOXBALANCER.FrmExcluir.resources
+C:\Users\JOÃO P\Desktop\beta-box-balancer-main\beta-box-balancer-main\bin\Debug\BETA - BOXBALANCER.exe.config
+C:\Users\JOÃO P\Desktop\beta-box-balancer-main\beta-box-balancer-main\bin\Debug\BETA - BOXBALANCER.exe
+C:\Users\JOÃO P\Desktop\beta-box-balancer-main\beta-box-balancer-main\bin\Debug\BETA - BOXBALANCER.pdb
+C:\Users\JOÃO P\Desktop\beta-box-balancer-main\beta-box-balancer-main\obj\Debug\BETA - BOXBALANCER.csproj.AssemblyReference.cache
+C:\Users\JOÃO P\Desktop\beta-box-balancer-main\beta-box-balancer-main\obj\Debug\BETA___BOXBALANCER.FrmExcluir.resources
+C:\Users\JOÃO P\Desktop\beta-box-balancer-main\beta-box-balancer-main\obj\Debug\BETA___BOXBALANCER.FrmIncluir.resources
+C:\Users\JOÃO P\Desktop\beta-box-balancer-main\beta-box-balancer-main\obj\Debug\BETA___BOXBALANCER.FrmLogin.resources
+C:\Users\JOÃO P\Desktop\beta-box-balancer-main\beta-box-balancer-main\obj\Debug\BETA___BOXBALANCER.FrmPrincipal.resources
+C:\Users\JOÃO P\Desktop\beta-box-balancer-main\beta-box-balancer-main\obj\Debug\BETA___BOXBALANCER.Properties.Resources.resources
+C:\Users\JOÃO P\Desktop\beta-box-balancer-main\beta-box-balancer-main\obj\Debug\BETA - BOXBALANCER.csproj.GenerateResource.cache
+C:\Users\JOÃO P\Desktop\beta-box-balancer-main\beta-box-balancer-main\obj\Debug\BETA - BOXBALANCER.csproj.CoreCompileInputs.cache
+C:\Users\JOÃO P\Desktop\beta-box-balancer-main\beta-box-balancer-main\obj\Debug\BETA - BOXBALANCER.exe
+C:\Users\JOÃO P\Desktop\beta-box-balancer-main\beta-box-balancer-main\obj\Debug\BETA - BOXBALANCER.pdb
+C:\Users\JOÃO P\Downloads\beta-box-balancer-main\beta-box-balancer-main\beta-box-balancer-main\obj\Debug\BETA - BOXBALANCER.csproj.AssemblyReference.cache
+C:\Users\JOÃO P\Downloads\beta-box-balancer-main\beta-box-balancer-main\beta-box-balancer-main\obj\Debug\BETA___BOXBALANCER.FrmExcluir.resources
+C:\Users\JOÃO P\Downloads\beta-box-balancer-main\beta-box-balancer-main\beta-box-balancer-main\obj\Debug\BETA___BOXBALANCER.FrmIncluir.resources
+C:\Users\JOÃO P\Downloads\beta-box-balancer-main\beta-box-balancer-main\beta-box-balancer-main\obj\Debug\BETA___BOXBALANCER.FrmLogin.resources
+C:\Users\JOÃO P\Downloads\beta-box-balancer-main\beta-box-balancer-main\beta-box-balancer-main\obj\Debug\BETA___BOXBALANCER.FrmPrincipal.resources
+C:\Users\JOÃO P\Downloads\beta-box-balancer-main\beta-box-balancer-main\beta-box-balancer-main\obj\Debug\BETA___BOXBALANCER.Properties.Resources.resources
+C:\Users\JOÃO P\Downloads\beta-box-balancer-main\beta-box-balancer-main\beta-box-balancer-main\obj\Debug\BETA - BOXBALANCER.csproj.GenerateResource.cache
+C:\Users\JOÃO P\Downloads\beta-box-balancer-main\beta-box-balancer-main\beta-box-balancer-main\obj\Debug\BETA - BOXBALANCER.csproj.CoreCompileInputs.cache
+C:\Users\JOÃO P\Downloads\beta-box-balancer-main\beta-box-balancer-main\beta-box-balancer-main\obj\Debug\BETA - BOXBALANCER.exe
+C:\Users\JOÃO P\Downloads\beta-box-balancer-main\beta-box-balancer-main\beta-box-balancer-main\obj\Debug\BETA - BOXBALANCER.pdb
+C:\Users\JOÃO P\Downloads\beta-box-balancer-main\beta-box-balancer-main\beta-box-balancer-main\bin\Debug\BETA - BOXBALANCER.exe.config
+C:\Users\JOÃO P\Downloads\beta-box-balancer-main\beta-box-balancer-main\beta-box-balancer-main\bin\Debug\BETA - BOXBALANCER.exe
+C:\Users\JOÃO P\Downloads\beta-box-balancer-main\beta-box-balancer-main\beta-box-balancer-main\bin\Debug\BETA - BOXBALANCER.pdb
